@@ -1,0 +1,7 @@
+name: Welcome to my house
+on:
+  pull_request: 
+    types: [opened]
+permissions:
+  pull-rquest: write
+  
